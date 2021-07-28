@@ -1,6 +1,6 @@
 # 注意
 拡張機能として使用して公開する場合や、ブログなどに掲載する場合は、
-LICENSE(https://github.com/charame1t/micro_bit-kawasemi_test/blob/master/License)を確認してください。
+LICENSE(https://github.com/charame1t/micro_bit-kawasemi_test/blob/master/License )を確認してください。
 一言っておくとMIT License(X License)です。
 ## 拡張機能として使用
 
